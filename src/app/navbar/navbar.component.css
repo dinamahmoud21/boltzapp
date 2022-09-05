@@ -1,0 +1,25 @@
+.topbar.navbar-light .navbar-nav .nav-item .nav-link {
+  color: #5a5c69;
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out
+}
+
+.topbar.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  color: #e0e0e0;
+  transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out
+}
+
+.topbar.navbar-light .navbar-nav .nav-item .nav-link:active {
+  color: #858796
+}
+
+.bg-navbar {
+  background-color: #f8f9fc
+}
+
+
+
+  .topbar .navbar-search {
+      width: 100%
+  }
